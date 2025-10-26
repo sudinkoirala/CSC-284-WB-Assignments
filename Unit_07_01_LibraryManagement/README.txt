@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 Overview
+##  Overview
 This project implements a simple **Library Management System** using object-oriented programming in C++.  
 It manages:
 - Books (title, author, year, ISBN, availability)
@@ -15,7 +15,7 @@ It manages:
 
 ---
 
-## 🧱 Files
+##  Files
 | File | Description |
 |------|--------------|
 | `Book.h` | Defines the Book class |
@@ -26,7 +26,7 @@ It manages:
 
 ---
 
-## ⚙️ Features
+##  Features
 ✅ Add and remove books  
 ✅ Register members  
 ✅ Borrow and return books  
@@ -35,7 +35,7 @@ It manages:
 
 ---
 
-## 🧩 How to Build and Run in Xcode
+##  How to Build and Run in Xcode
 1. Open **Xcode → File → New → Project → macOS → Command Line Tool**
 2. Set **Language** to **C++**
 3. Add all `.h` and `.cpp` files to the project
@@ -45,4 +45,4 @@ It manages:
 
 ---
 
-## 💾 Sample Output
+##  Sample Output
