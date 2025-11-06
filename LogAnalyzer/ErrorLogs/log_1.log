@@ -1,7 +1,0 @@
-[INFO] Server started successfully
-[WARN] Low disk space on /dev/sda1
-[ERROR] Failed to open connection
-[DEBUG] Retrying...
-[FATAL] Could not recover
-[TRACE] Exiting function main()
-
