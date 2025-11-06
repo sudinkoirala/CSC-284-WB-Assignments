@@ -1,0 +1,7 @@
+[INFO] User login: admin
+[DEBUG] Session started
+[WARN] Invalid password attempt
+[ERROR] Database timeout
+[FATAL] Memory overflow
+[TRACE] Cleaning up...
+
