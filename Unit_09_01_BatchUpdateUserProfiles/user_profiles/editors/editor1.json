@@ -1,0 +1,8 @@
+{
+    "name": "Editor One",
+    "email": "editor1@company.com",
+    "status": "enabled",
+    "permissions": [
+        "view_content"
+    ]
+}

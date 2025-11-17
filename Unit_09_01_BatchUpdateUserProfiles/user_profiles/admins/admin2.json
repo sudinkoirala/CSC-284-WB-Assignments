@@ -1,0 +1,8 @@
+{
+    "name": "Admin Two",
+    "email": "admin2@other.com",
+    "status": "disabled",
+    "permissions": [
+        "view_content"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Admin Two",
+    "email": "admin2@other.com",
+    "status": {
+        "status": "disabled",
+        "since": "2024-10-01"
+    },
+    "permissions": [
+        {
+            "permission": "view_content",
+            "granted_at": "2024-09-25",
+            "level": "read-only"
+        }
+    ]
+}

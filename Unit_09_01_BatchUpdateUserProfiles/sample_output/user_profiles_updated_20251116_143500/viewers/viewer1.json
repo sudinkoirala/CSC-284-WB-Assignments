@@ -1,0 +1,9 @@
+{
+    "name": "Viewer One",
+    "email": "viewer1@newcompany.com",
+    "status": {
+        "status": "disabled",
+        "since": "2024-10-01"
+    },
+    "permissions": []
+}
