@@ -9,7 +9,7 @@ The goal is to extend networking skills from previous units and integrate them i
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```text
 Unit11_Chatroom/
@@ -25,7 +25,7 @@ Only this folder is graded for **Unit 11**.
 
 ---
 
-## 🖥️ Part 1 — Multi-Client Chat Server
+##  Part 1 — Multi-Client Chat Server
 
 ### Features
 - Accepts **multiple simultaneous clients**
@@ -54,7 +54,7 @@ g++ -std=c++17 server.cpp -o server -pthread
 
 ---
 
-## 💬 Part 2 — Basic Console Client
+##  Part 2 — Basic Console Client
 
 ### Features
 - Connects to the server using the same IP/port defaults
@@ -80,7 +80,7 @@ Type `/quit` to close the client cleanly.
 
 ---
 
-## 🎨 Part 3 — Ncurses Chat UI Client
+##  Part 3 — Ncurses Chat UI Client
 
 ### Features
 - Message window + input box UI
@@ -110,7 +110,7 @@ g++ -std=c++17 curses_client.cpp -o curses_client -pthread -lncurses
 
 ---
 
-## 🚀 Running Everything Together
+##  Running Everything Together
 
 Open three separate terminals:
 
@@ -136,7 +136,7 @@ Messages now broadcast in real time across all connected clients.
 
 ---
 
-## ✔️ Clean Shutdown
+##  Clean Shutdown
 
 - Type `/quit` in either client to exit gracefully.
 - The server will remove the disconnected client automatically.
@@ -147,23 +147,16 @@ Messages now broadcast in real time across all connected clients.
 
 ---
 
-## 📌 Notes for Assignment Requirements
+##  Notes for Assignment Requirements
 
-- No usernames/login are required yet.
-- The IP address argument is accepted but not validated (as allowed by the assignment).
-- Port numbers are used correctly when passed.
-- The shared client list is **mutex-protected** for:
-  - Additions
-  - Removals
-  - Broadcasting
 
 The code is structured so it can be reused and extended in future capstone units.
 
 ---
 
-## ✅ Student & Course Info
+##  Student & Course Info
 
 - **Student:** Sudeen Koirala  
-- **Course:** CSC-284-WB — Capstone Project  
+- **Course:** CSC-284-WB
 - **Assignment:** Unit 11 — Chatroom Server and Client  
 - **Instructor:** Professor Pradeep Selvakumar
