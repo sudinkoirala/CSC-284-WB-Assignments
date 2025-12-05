@@ -1,4 +1,4 @@
-# Unit 11 — Multi-Client Chatroom (CSC-284 Capstone Project)
+# Unit 11 — Multi-Client Chatroom 
 
 This project implements a fully functional **multi-client chat server** and two different clients:
 
