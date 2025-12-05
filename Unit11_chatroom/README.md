@@ -147,13 +147,6 @@ Messages now broadcast in real time across all connected clients.
 
 ---
 
-##  Notes for Assignment Requirements
-
-
-The code is structured so it can be reused and extended in future capstone units.
-
----
-
 ##  Student & Course Info
 
 - **Student:** Sudeen Koirala  
